@@ -199,4 +199,5 @@ class TaskScanViewModel : ViewModel () {
     fun removeItemAt(invoiceValue: String) {
         _renewList.value = _renewList.value.filterNot { it == invoiceValue }
     }
+
 }
