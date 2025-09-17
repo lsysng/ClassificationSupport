@@ -278,7 +278,6 @@ fun TaskScan(navController: NavController, seq: String?, date: String?, viewMode
                                 , textAlign = TextAlign.Center
                             )
                         }
-
                     }
                 }
             }
